@@ -1,0 +1,94 @@
+Bowl,Team 1,Team 2,Rating,Viewers,Year,Playoff?,Era
+CFPNC,Alabama,Ohio State,10.3,18.653,2021,Final,CFP
+Sugar,Ohio State,Clemson,9.8,19.149,2021,Semi,CFP
+Rose,Alabama,Notre Dame,9.6,18.893,2021,Semi,CFP
+Peach,Georgia,Cincinnati,4.9,8.727,2021,No,CFP
+Orange,Texas A&M,North Carolina,4.3,7.577,2021,No,CFP
+Fiesta,Iowa State,Oregon,3.8,6.679,2021,No,CFP
+Cotton,Oklahoma,Florida,3.2,5.766,2021,No,CFP
+CFPNC,LSU,Clemson,14.3,25.588,2020,Final,CFP
+Fiesta,Clemson,Ohio State,11.1,21.151,2020,Semi,CFP
+Peach,LSU,Oklahoma,9.5,17.214,2020,Semi,CFP
+Rose,Oregon,Wisconsin,8.7,16.304,2020,No,CFP
+Sugar,Georgia,Baylor,5.7,10.224,2020,No,CFP
+Cotton,Penn State,Memphis,3.8,6.22,2020,No,CFP
+Orange,Florida,Virginia,3.5,6.067,2020,No,CFP
+CFPNC,Clemson,Alabama,13.8,25.28,2019,Final,CFP
+Orange,Alabama,Oklahoma,9.9,19.069,2019,Semi,CFP
+Cotton,Clemson,Notre Dame,9.4,16.809,2019,Semi,CFP
+Rose,Ohio State,Washington,8.9,16.781,2019,No,CFP
+Sugar,Texas,Georgia,7.3,13.298,2019,No,CFP
+Fiesta,LSU,UCF,4.7,8.471,2019,No,CFP
+Peach,Florida,Michigan,5,8.366,2019,No,CFP
+CFPNC,Alabama,Georgia,15.6,28.443,2018,Final,CFP
+Rose,Georgia,Oklahoma,13.7,26.913,2018,Semi,CFP
+Sugar,Alabama,Clemson,11.4,21.473,2018,Semi,CFP
+Orange,Wisconsin,Miami,6.3,11.727,2018,No,CFP
+Fiesta,Penn State,Washington,5.7,10.167,2018,No,CFP
+Cotton,Ohio State,USC,5.3,9.468,2018,No,CFP
+Peach,UCF,Auburn,4.6,8.377,2018,No,CFP
+CFPNC,Clemson,Alabama,14.2,25.266,2017,Final,CFP
+Peach,Alabama,Washington,10.7,19.344,2017,Semi,CFP
+Fiesta,Clemson,Ohio State,9.8,19.237,2017,Semi,CFP
+Rose,USC,Penn State,8.6,15.74,2017,No,CFP
+Orange,Florida State,Michigan,6.2,11.461,2017,No,CFP
+Sugar,Oklahoma,Auburn,5.6,9.515,2017,No,CFP
+Cotton,Wisconsin,Western Michigan,3.1,5.442,2017,No,CFP
+CFPNC,Alabama,Clemson,15,26.182,2016,Final,CFP
+Cotton,Alabama,Michigan State,9.6,18.641,2016,Semi,CFP
+Orange,Clemson,Oklahoma,9.1,15.73,2016,Semi,CFP
+Rose,Stanford,Iowa,7.4,13.552,2016,No,CFP
+Fiesta,Ohio State,Notre Dame,5.6,9.759,2016,No,CFP
+Sugar,Ole Miss,Oklahoma State,5.1,8.94,2016,No,CFP
+Peach,Houston,Florida State,3.7,5.604,2016,No,CFP
+CFPNC,Ohio State,Oregon,18.6,34.148,2015,Final,CFP
+Sugar,Ohio State,Alabama,15.2,28.271,2015,Semi,CFP
+Rose,Oregon,Florida State,14.8,28.164,2015,Semi,CFP
+Cotton,Michigan State,Baylor,5.2,9.086,2015,No,CFP
+Orange,Georgia Tech,Mississippi State,5,8.935,2015,No,CFP
+Fiesta,Boise State,Arizona,4.6,7.406,2015,No,CFP
+Peach,TCU,Ole Miss,3.4,5.013,2015,No,CFP
+BCSNC,Florida State,Auburn,14.8,26.205,2014,Final,BCS
+Rose,Michigan State,Stanford,10.2,18.636,2014,No,BCS
+Sugar,Oklahoma,Alabama,9.3,16.339,2014,No,BCS
+Orange,Clemson,Ohio State,6.7,11.4,2014,No,BCS
+Fiesta,UCF,Baylor,6.6,11.235,2014,No,BCS
+BCSNC,Alabama,Notre Dame,15.1,26.38,2013,Final,BCS
+Rose,Stanford,Wisconsin,9.4,17.024,2013,No,BCS
+Fiesta,Oregon,Kansas State,7.4,12.306,2013,No,BCS
+Orange,Florida State,Northern Illinois,6.1,10.562,2013,No,BCS
+Sugar,Louisville,Florida,6.2,10.125,2013,No,BCS
+BCSNC,Alabama,LSU,14,24.214,2012,Final,BCS
+Rose,Oregon,Wisconsin,10.2,17.558,2012,No,BCS
+FIesta,Oklahoma State,Stanford,8.4,13.684,2012,No,BCS
+Sugar,Michigan,Virginia Tech,6.1,9.708,2012,No,BCS
+Orange,West Virginia,Clemson,4.5,7.174,2012,No,BCS
+BCSNC,Auburn,Oregon,15.3,27.316,2011,Final,BCS
+Rose,TCU,Wisconsin,11.3,20.558,2011,No,BCS
+Sugar,Ohio State,Arkansas,8.2,13.635,2011,No,BCS
+Fiesta,Oklahoma,UConn,6.2,10.819,2011,No,BCS
+Orange,Stanford,Virginia Tech,6.7,10.682,2011,No,BCS
+BCSNC,Alabama,Texas,17.2,30.776,2010,Final,BCS
+Rose,Ohio State,Oregon,13.2,24.025,2010,No,BCS
+Sugar,Florida,Cincinnati,8.5,15.533,2010,No,BCS
+Fiesta,Boise State,TCU,8.2,13.82,2010,No,BCS
+Orange,Iowa,Georgia Tech,6.8,10.879,2010,No,BCS
+BCSNC,Florida,Oklahoma,15.8,26.767,2009,Final,BCS
+Rose,USC,Penn State,11.7,20.603,2009,No,BCS
+Fiesta,Texas,Ohio State,10.4,17.056,2009,No,BCS
+Sugar,Utah,Alabama,7.8,13.369,2009,No,BCS
+Orange,Virginia Tech,Cincinnati,5.4,9.319,2009,No,BCS
+BCSNC,LSU,Ohio State,14.4,23.069,2008,Final,BCS
+Rose,USC,Illinois,11.1,19.003,2008,No,BCS
+Fiesta,West Virginia,Oklahoma,7.7,12.164,2008,No,BCS
+Orange,Kansas,Virginia Tech,7.4,11.958,2008,No,BCS
+Sugar,Georgia,Hawaii,7,11.702,2008,No,BCS
+BCSNC,Florida,Ohio State,17.4,28.795,2007,Final,BCS
+Rose,USC,Michigan,13.9,24.025,2007,No,BCS
+Sugar,LSU,Notre Dame,9.3,14.417,2007,No,BCS
+Fiesta,Boise State,Oklahoma,8.4,13.778,2007,No,BCS
+Orange,Louisville,Wake Forest,7,10.66,2007,No,BCS
+Rose,Texas,USC,21.7,35.63,2006,Final,BCS
+Fiesta,Ohio State,Notre Dame,12.9,20.601,2006,No,BCS
+Orange,Penn State,Florida State,12.3,18.557,2006,No,BCS
+Sugar,West Virginia,Georgia,9,13.59,2006,No,BCS
